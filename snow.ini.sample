@@ -1,0 +1,13 @@
+[main]
+check_interval = 5
+
+[memory_watch]
+available_red_threshold = 0.9
+available_yellow_threshold = 0.8
+free_red_threshold = 0.8
+free_yellow_threshold = 0.7
+
+[stream_informer]
+
+[telegram_informer]
+token = <Your telegram bot token>
