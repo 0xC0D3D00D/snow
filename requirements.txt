@@ -1,0 +1,4 @@
+future==0.15.2
+humanize==0.5.1
+psutil==4.0.0
+python-telegram-bot==3.3
